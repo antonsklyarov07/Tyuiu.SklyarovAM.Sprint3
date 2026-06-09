@@ -16,7 +16,7 @@ namespace Tyuiu.SklyarovAM.Sprint3.Task0.V26.Lib
                 product *= Math.Pow(2, k) / (k + 1);
             }
             double p = product * Math.Cos(1.8);
-            return Math.Round(p, 3);
+            return Math.Round(p,3);
         }
     }
 }

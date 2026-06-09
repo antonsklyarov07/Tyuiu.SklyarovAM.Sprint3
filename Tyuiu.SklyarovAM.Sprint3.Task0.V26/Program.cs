@@ -13,7 +13,7 @@ namespace Tyuiu.SklyarovAM.Sprint3.Task0.V26
         {
             DataService ds = new DataService();
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
+            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ :                                                        *");
             Console.WriteLine("***************************************************************************");           
             int startValue = 1;
             int stopValue = 9;
